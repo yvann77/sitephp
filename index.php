@@ -56,7 +56,7 @@ session_start();
 </div>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>&copy; 2023 Presence Tracker. Tous droits réservés.</p>
+  <p>&copy; 2024 Presence Tracker. Tous droits réservés.</p>
 </div>
 
 </body>
